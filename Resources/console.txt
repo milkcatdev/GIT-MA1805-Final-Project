@@ -1,0 +1,57 @@
+C:\Users\System>_  [Initializing System Scan...]
+C:\Users\System>_  [Virus Detected: perl.exe]
+C:\Users\System>_  [Attempting Isolation...]
+C:\Users\System>_  [Warning: Isolation Failed!]
+C:\Users\System>_  [Attempting to Quarantine perl.exe...]
+C:\Users\System>_  [Error: Quarantine Process Timed Out!]
+C:\Users\System>_  [Warning: Virus Spreading...]
+C:\Users\System>_  [Attempting System Isolation...]
+C:\Users\System>_  [Error: Unable to Isolate Infected Files!]
+C:\Users\System>_  [Warning: perl.exe Has Infected System32!]
+C:\Users\System>_  [Attempting to Remove perl.exe...]
+C:\Users\System>_  [Error: perl.exe Cannot Be Removed!]
+C:\Users\System>_  [Critical Warning: Infected Files Found in C:\Windows\Temp\]
+C:\Users\System>_  [Unable to Delete Infected Temp Files!]
+C:\Users\System>_  [Warning: System Integrity Compromised!]
+C:\Users\System>_  [Scanning Registry for Additional Threats...]
+C:\Users\System>_  [Error: Registry Scan Failed!]
+C:\Users\System>_  [Attempting to End perl.exe Process...]
+C:\Users\System>_  [Error: Unable to Terminate perl.exe!]
+C:\Users\System>_  [Warning: perl.exe Spawned Additional Processes!]
+C:\Users\System>_  [Warning: Multiple Instances of perl.exe Detected!]
+C:\Users\System>_  [Attempting to Block Network Connections...]
+C:\Users\System>_  [Error: Unable to Block perl.exe Network Access!]
+C:\Users\System>_  [Warning: perl.exe Connecting to External IP: 192.168.1.105]
+C:\Users\System>_  [Critical Alert: Perl.exe Transmitting Data...]
+C:\Users\System>_  [Error: Data Transmission Failure...]
+C:\Users\System>_  [Attempting to Restore System Backups...]
+C:\Users\System>_  [Error: Backup Files Corrupted!]
+C:\Users\System>_  [Virus Detected in Backup Files: perl.exe]
+C:\Users\System>_  [Warning: System Restore Points Missing!]
+C:\Users\System>_  [Error: System Restore Failed!]
+C:\Users\System>_  [Attempting Emergency Shutdown...]
+C:\Users\System>_  [Error: Shutdown Process Cannot Be Completed!]
+C:\Users\System>_  [Warning: perl.exe Hiding in Background...]
+C:\Users\System>_  [Error: Unable to Track Active perl.exe Processes!]
+C:\Users\System>_  [Warning: perl.exe Hiding in System Memory!]
+C:\Users\System>_  [Attempting to Reboot...]
+C:\Users\System>_  [Error: Reboot Failed: System Critical Failure]
+C:\Users\System>_  [Warning: Critical Data Loss Detected!]
+C:\Users\System>_  [Virus Perl.exe Fully Active!]
+C:\Users\System>_  [System Failure Imminent!]
+C:\Users\System>_  [Critical System Crash Detected!]
+C:\Users\System>_  [Warning: No Response from Virus Isolation Process!]
+C:\Users\System>_  [Warning: perl.exe Executing Remote Commands...]
+C:\Users\System>_  [System Shutdown Command Executed by perl.exe]
+C:\Users\System>_  [Emergency Alert: Shutdown Failed!]
+C:\Users\System>_  
+C:\Users\System>_  
+C:\Users\System>_  
+C:\Users\System>_  
+C:\Users\System>_  
+C:\Users\System>_  
+C:\Users\System>_  
+C:\Users\System>_  
+C:\Users\System>_  
+
+
